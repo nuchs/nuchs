@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nuchs
+- 👀 I’m interested in exploitation of the gullible
+- 🌱 I’m currently learning everything I can about you
+- 💞️ I’m looking to collaborate on divestment of your assests
+- 📫 How to reach me -> submit a pull request with your mother's maiden name, the name of your first pet and the first four digits of your credit card
